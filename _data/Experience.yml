@@ -2,21 +2,29 @@ subject: Experiences
 listing-order: 2
 icon: "/assets/img/briefcase.svg"
 contents:
-  - title: Nanosoft
-    role: Project Manager
+  - title: Cocoon Creations Service
+    role: Senior Software Engineer, Android and Flutter Developer
     description:
-      - Led development of a new chatbot software utilizing large language model
-      - Co-designer of '*Kopilot*' and '*Gemmini*'
-    date: Jan. 2024 - Ongoing
-  - title: Amazone
-    role: Senior Software Engineer
+      - Android Developer
+      - Flutter Developer
+      - DevOps automation
+    date: Nov. 2017 - Ongoing
+  - title: Contributing Open Source Projects on GitHub
+    role: Senior Software Engineer, Android and Flutter Developer
     description: 
-      - Built a Java microservice, database schema to manage customer accounts
-      - Enhanced internal pipelines to query real-time data from client devices
-    date: Apr. 2016 - Dec. 2018
-  - title: Pacebook
+      - Implemented open source projects with recommended Google technologies for Android and Flutter, libraries and examples projects that show setup for mobile technologies with related articles on Medium
+    date: Jan. 2020 - Ongoing
+  - title: Google Play Developer (Publishing app on Play Store)
     role: Software Engineer Intern
     description: 
-      - Designed the dynamic website using React for data visualization
-      - Integrated '*Yolo*' to boost the accuracy of the object detection
-    date: Jul. 2013 - Sep. 2013
+      - https://play.google.com/store/apps/details?id=com.map.nicos.mymap
+    date: Jun. 2016 - Ongoing
+  - title: Offered Tutorial in Android Studio
+    role: ""
+    description: 
+      - I have offered Two Tutorials in Android Studio at the MSc Course in Mobile Systems (in both Fall and Spring semesters, one Tutorial in Fall Semester and one in Spring Semester) and more specifically the Mobile Computing course.
+    date: Oct 2016 - Mar 2017
+  - title: Mobile Apps Developer/Application Developer at the Mobile System Laboratory
+    role: ""
+    description: ""
+    date: Nov 2015 - Jun 2016
