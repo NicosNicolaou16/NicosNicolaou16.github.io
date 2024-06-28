@@ -68,7 +68,7 @@ a { text-decoration:none; }
     }
 
     .profile-zone .profile-img {
-        width:92px;
+        width:192px;
         aspect-ratio:1.0;
         position: absolute;
         top:50%;
@@ -132,6 +132,7 @@ a { text-decoration:none; }
             img { 
                 order: 1; 
                 margin-right: 0.5rem;
+                background-color: black;
             }
 
             div { order: 2; }
@@ -143,6 +144,7 @@ a { text-decoration:none; }
             img { 
                 order: 2; 
                 margin-left: 0.5rem;
+                background-color: black;
             }
 
             div { order: 1; }
