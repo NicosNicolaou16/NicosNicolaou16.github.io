@@ -51,7 +51,7 @@ a { text-decoration:none; }
     z-index: 2;
 
     .profile-zone{
-        width: 70%;
+        width: 100%;
         position: relative;
         margin: 3rem auto;
         background-color: var(--theme4-medium);
@@ -68,7 +68,7 @@ a { text-decoration:none; }
     }
 
     .profile-zone .profile-img {
-        width:192px;
+        width:152px;
         aspect-ratio:1.0;
         position: absolute;
         top:50%;
