@@ -126,7 +126,7 @@ a { text-decoration:none; }
 
         li { height: 40px; }
 
-        li:nth-child(n+1):nth-child(-n+3) { 
+        li:nth-child(n+1):nth-child(-n+5) { 
             text-align: right; 
 
             img { 
@@ -137,7 +137,7 @@ a { text-decoration:none; }
             div { order: 2; }
         }
 
-        li:nth-child(n+4):nth-child(-n+6) { 
+        li:nth-child(n+6):nth-child(-n+10) { 
             text-align: left; 
 
             img { 
