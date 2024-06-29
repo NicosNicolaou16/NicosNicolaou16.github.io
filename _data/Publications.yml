@@ -3,9 +3,9 @@ listing-order: 5
 icon: "/assets/img/flask.svg"
 contents:
   - title: Android TV Application (Jetpack Compose and Flutter)
-    description: "This article explains the latest setup for the Android TV in Android and Flutter. There are two example projects in my GitHub account for Android Native and Flutter.
-                 Android Native: https://github.com/NicosNicolaou16/SampleAndroidTvApp
-                 Flutter: https://github.com/NicosNicolaou16/SampleFlutterTVApp
-                 [https://medium.com/@nicosnicolaou/android-tv-application-jetpack-compose-and-flutter-f4decfa765c6](https://medium.com/@nicosnicolaou/android-tv-application-jetpack-compose-and-flutter-f4decfa765c6)"
+    description: "[https://medium.com/@nicosnicolaou/android-tv-application-jetpack-compose-and-flutter-f4decfa765c6](https://medium.com/@nicosnicolaou/android-tv-application-jetpack-compose-and-flutter-f4decfa765c6)
+                 \nThis article explains the latest setup for the Android TV in Android and Flutter. There are two example projects in my GitHub account for Android Native and Flutter.
+                 \nAndroid Native: https://github.com/NicosNicolaou16/SampleAndroidTvApp
+                 Flutter: https://github.com/NicosNicolaou16/SampleFlutterTVApp"
   - title: Foreground Service in Android
     description: "[https://medium.com/@nicosnicolaou/foreground-service-in-android-9ff18be69ef6](https://medium.com/@nicosnicolaou/foreground-service-in-android-9ff18be69ef6)"
