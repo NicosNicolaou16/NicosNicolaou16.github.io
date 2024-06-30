@@ -437,8 +437,8 @@ a { text-decoration:none; }
             cursor: pointer;
 
             a {     
-                color: var(--font-dark);
-                text-shadow: 1px 1px 1px rgba(65, 65, 65, 0.397); 
+                color: var(theme2-medium);
+                text-shadow: 1px 1px 1px rgba(255,255,255,0.75); 
             }
         }
 
