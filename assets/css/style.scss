@@ -3,22 +3,22 @@
 
 :root {
     --color-background: #292a2c;
-    --theme1-light: #292a2c;
-    --theme1-medium: #292a2c;
-    --theme1-dim: #292a2c;
-    --theme1-dark: #292a2c;
+    --theme1-light: #C5C6C7;
+    --theme1-medium: #C5C6C7;
+    --theme1-dim: #C5C6C7;
+    --theme1-dark: #C5C6C7;
     --theme2-light: #B1B1C2;
     --theme2-medium: #8888A4;
     --theme2-dim: #66658C;
     --theme2-dark: #484776;
-    --theme3-light: #66FCF1;
-    --theme3-medium: #292a2c;
-    --theme3-dim: #292a2c;
-    --theme3-dark: #292a2c;
-    --theme4-light: #C5C6C7;
-    --theme4-medium: #C5C6C7;
-    --theme4-dim: #C5C6C7;
-    --theme4-dark: #292a2c;
+    --theme3-light: #C5C6C7;
+    --theme3-medium: #C5C6C7;
+    --theme3-dim: #C5C6C7;
+    --theme3-dark: #C5C6C7;
+    --theme4-light: #C5C6F1;
+    --theme4-medium: #C5C6F1;
+    --theme4-dim: #C5C6F1;
+    --theme4-dark: #C5C6C7;
     --font-dark: #C5C6C7;
 }
 
@@ -343,7 +343,7 @@ a { text-decoration:none; }
 
         .profile-zone { margin:4rem auto; }
 
-        .profile-zone .profile-img { width:230px; }
+        .profile-zone .profile-img { width:200px; }
 
         .profile-zone .personal-info { min-width: 768px; }
 
