@@ -4,22 +4,22 @@
 :root {
     --color-background: #0B0C10;
     --theme1-light: #66FCF1;
-    --theme1-medium: #66FCF1;
+    --theme1-medium: #45A29E;
     --theme1-dim: #66FCF1;
-    --theme1-dark: #66FCF1;
-    --theme2-light: #66FCF1;
-    --theme2-medium: #66FCF1;
-    --theme2-dim: #66FCF1;
-    --theme2-dark: #66FCF1;
+    --theme1-dark: #45A29E;
+    --theme2-light: #B1B1C2;
+    --theme2-medium: #8888A4;
+    --theme2-dim: #66658C;
+    --theme2-dark: #484776;
     --theme3-light: #66FCF1;
     --theme3-medium: #66FCF1;
     --theme3-dim: #66FCF1;
-    --theme3-dark: #66FCF1;
-    --theme4-light: #66FCF1;
-    --theme4-medium: #66FCF1;
-    --theme4-dim: #66FCF1;
-    --theme4-dark: #66FCF1;
-    --font-dark: #66FCF1;
+    --theme3-dark: #C5C6F1;
+    --theme4-light: #C5C6F1;
+    --theme4-medium: #C5C6F1;
+    --theme4-dim: #C5C6F1;
+    --theme4-dark: #C5C6F1;
+    --font-dark: #C5C6F1;
 }
 
 html, body {
@@ -30,10 +30,12 @@ html, body {
 body { 
     margin:0 auto;
     font-family: 'Poppins', sans-serif;
-    background: var(--font-dark);
+    background: var(--color-background);
     
     &:before{ display: none; }
 }
+
+p { background: var(--font-dark); }
 
 ul, li {
     list-style:none;
