@@ -10,8 +10,7 @@ contents:
    - title: Standalone Wear OS Application (Jetpack Compose and Flutter)
     description: "This article explains the latest setup for the Standalone Android Wear OS in Android and Flutter.\n
                   There are two example projects in my GitHub account for Android Native and Flutter.\n
-                  Android Native: [https://github.com/NicosNicolaou16/SampleWearOSComposeWithList](https://github.com/NicosNicolaou16/SampleWearOSComposeWithList)
+                  Android Native: [https://github.com/NicosNicolaou16/SampleWearOSComposeWithList](https://github.com/NicosNicolaou16/SampleWearOSComposeWithList)\n
                   Flutter: [https://github.com/NicosNicolaou16/SampleWearOSWithList](https://github.com/NicosNicolaou16/SampleWearOSWithList)"
-
   - title: Foreground Service in Android
     description: "[https://medium.com/@nicosnicolaou/foreground-service-in-android-9ff18be69ef6](https://medium.com/@nicosnicolaou/foreground-service-in-android-9ff18be69ef6)"
