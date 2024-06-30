@@ -3,9 +3,9 @@ listing-order: 5
 icon: "/assets/img/flask.svg"
 contents:
   - title: Android TV Application (Jetpack Compose and Flutter)
-    description: "[https://medium.com/@nicosnicolaou/android-tv-application-jetpack-compose-and-flutter-f4decfa765c6](https://medium.com/@nicosnicolaou/android-tv-application-jetpack-compose-and-flutter-f4decfa765c6)\\n
-                 This article explains the latest setup for the Android TV in Android and Flutter. There are two example projects in my GitHub account for Android Native and Flutter.\\n
-                 Android Native: [https://github.com/NicosNicolaou16/SampleAndroidTvApp](https://github.com/NicosNicolaou16/SampleAndroidTvApp)\\n
+    description: "[https://medium.com/@nicosnicolaou/android-tv-application-jetpack-compose-and-flutter-f4decfa765c6](https://medium.com/@nicosnicolaou/android-tv-application-jetpack-compose-and-flutter-f4decfa765c6)\n\n
+                 This article explains the latest setup for the Android TV in Android and Flutter. There are two example projects in my GitHub account for Android Native and Flutter.\n
+                 Android Native: [https://github.com/NicosNicolaou16/SampleAndroidTvApp](https://github.com/NicosNicolaou16/SampleAndroidTvApp)\n
                  Flutter: [https://github.com/NicosNicolaou16/SampleFlutterTVApp](https://github.com/NicosNicolaou16/SampleFlutterTVApp)"
 
   - title: Standalone Wear OS Application (Jetpack Compose and Flutter)
