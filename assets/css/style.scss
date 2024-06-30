@@ -35,7 +35,7 @@ body {
     &:before{ display: none; }
 }
 
-p { background: var(--font-dark); }
+p { font-style: var(--font-dark); }
 
 ul, li {
     list-style:none;
