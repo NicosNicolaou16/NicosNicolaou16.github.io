@@ -8,7 +8,7 @@ contents:
                  Android Native: [https://github.com/NicosNicolaou16/SampleAndroidTvApp](https://github.com/NicosNicolaou16/SampleAndroidTvApp)\n
                  Flutter: [https://github.com/NicosNicolaou16/SampleFlutterTVApp](https://github.com/NicosNicolaou16/SampleFlutterTVApp)"
    - title: Standalone Wear OS Application (Jetpack Compose and Flutter)
-    description: "This article explains the latest setup for the Standalone Android Wear OS in Android and Flutter.\n
+     description: "This article explains the latest setup for the Standalone Android Wear OS in Android and Flutter.\n
                   There are two example projects in my GitHub account for Android Native and Flutter.\n
                   Android Native: [https://github.com/NicosNicolaou16/SampleWearOSComposeWithList](https://github.com/NicosNicolaou16/SampleWearOSComposeWithList)\n
                   Flutter: [https://github.com/NicosNicolaou16/SampleWearOSWithList](https://github.com/NicosNicolaou16/SampleWearOSWithList)"
