@@ -35,8 +35,6 @@ body {
     &:before{ display: none; }
 }
 
-p { color: var(--font-dark); }
-
 ul, li {
     list-style:none;
     padding:0;
@@ -285,6 +283,8 @@ a { text-decoration:none; }
     }
 
     p { line-height: 150%; }
+
+    p { color: var(--font-dark); }
 
     code {
         margin:0 2px;
