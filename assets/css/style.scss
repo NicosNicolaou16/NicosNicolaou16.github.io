@@ -282,7 +282,8 @@ a { text-decoration:none; }
         text-underline-position: under;
     }
 
-    p { line-height: 150%; 
+    p {
+        line-height: 150%; 
         color: var(--font-dark);
     }
 
@@ -319,7 +320,7 @@ a { text-decoration:none; }
     padding: 1rem;
     background: var(--theme3-medium);
     font-size: 14px;
-    color: var(--font-dark);
+    color: var(--color-background);
 
     a { 
         font-weight: 600;
