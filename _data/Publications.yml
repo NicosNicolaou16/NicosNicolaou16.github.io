@@ -18,8 +18,8 @@ contents:
     description: "[Foreground Service in Android](https://medium.com/@nicosnicolaou/foreground-service-in-android-9ff18be69ef6)\n\n
                   This article explains the latest setup for the Foreground Service in Android and Flutter. There are two example projects in my GitHub account for Android Native and Flutter.\n\n
                   Android Native: [SampleForegroundService](https://github.com/NicosNicolaou16/SampleForegroundService)\n\n
-                  Flutter: [SampleForegroundServiceFlutter](https://github.com/NicosNicolaou16/SampleForegroundServiceFlutter")
-                  
+                  Flutter: [SampleForegroundServiceFlutter](https://github.com/NicosNicolaou16/SampleForegroundServiceFlutter)"
+
   - title: Migration from Groovy to Kotlin DSL Gradle (Part 1)
     description: "[Migration from Groovy to Kotlin DSL Gradle (Part 1)](https://medium.com/@nicosnicolaou/migration-from-groovy-to-kotlin-dsl-gradle-part-1-c065fe19fcb4)\n\n
                   This article is part 1 and shows you the Gradle migration from Groovy to Kotlin DSL."
