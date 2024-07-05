@@ -5,9 +5,11 @@ contents:
   - title: "Image Picker Android (ImagePickerAndroid)"
     description: "Image and Video Picker library for Android, support Base64 value(s) from Image(s) and support Layout and Jetpack Compose"
     image: "[Image Picker Android](https://github.com/NicosNicolaou16/ImagePickerAndroid)"
+    
   - title: "percentages_with_animation"
     description: "This package provide you percentages custom widgets with animations such as linear, circular, circle and gradient circle percentages"
     image: "[percentages_with_animation](https://github.com/NicosNicolaou16/percentages_with_animation)"
+
   - title: "percentages_with_animation (Pub.dev)"
     description: "This package provide you percentages custom widgets with animations such as linear, circular, circle and gradient circle percentages"
     image: "[percentages_with_animation](https://pub.dev/packages/percentages_with_animation)"
