@@ -52,6 +52,6 @@ contents:
                   Android: [TextToSpeechSetup](https://github.com/NicosNicolaou16/TextToSpeechSetup)"
 
   - title: Migration Gradle Dependencies to Version Catalogs — libs.versions.toms (Part 3)
-    description: "This article is the third part from the series "Migration from Groovy to Kotlin DSL Gradle" and explain the new way to initialize the libraries and plugins in "Android Studio".
+    description: "This article is the third part from the series \"Migration from Groovy to Kotlin DSL Gradle\" and explain the new way to initialize the libraries and plugins in \"Android Studio\".
                   You can find an example project with some common libraries and plugins on my GitHub account.\n\n
                   Android: [Libraries-Plugins-Version-Catalogs-Example](https://github.com/NicosNicolaou16/Libraries-Plugins-Version-Catalogs-Example)"
