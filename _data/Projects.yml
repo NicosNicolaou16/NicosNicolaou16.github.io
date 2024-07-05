@@ -5,7 +5,7 @@ contents:
   - title: "Image Picker Android (ImagePickerAndroid)"
     description: "Image and Video Picker library for Android, support Base64 value(s) from Image(s) and support Layout and Jetpack Compose"
     image: "[Image Picker Android](https://github.com/NicosNicolaou16/ImagePickerAndroid)"
-    
+
   - title: "percentages_with_animation"
     description: "This package provide you percentages custom widgets with animations such as linear, circular, circle and gradient circle percentages"
     image: "[percentages_with_animation](https://github.com/NicosNicolaou16/percentages_with_animation)"
@@ -13,3 +13,11 @@ contents:
   - title: "percentages_with_animation (Pub.dev)"
     description: "This package provide you percentages custom widgets with animations such as linear, circular, circle and gradient circle percentages"
     image: "[percentages_with_animation](https://pub.dev/packages/percentages_with_animation)"
+
+  - title: "Pokedex_Compose"
+    description: "This open source project is implemented with the latest Android technologies, Jetpack Compose, and using the new Android API Shared Element Transition"
+    image: "[Pokedex_Compose](https://github.com/NicosNicolaou16/Pokedex_Compose)"
+
+  - title: "Pokedex_Flutter"
+    description: "This Pokedex Flutter project show a list of Pokemons and Details Screen for each Pokemon and stats."
+    image: "[Pokedex_Flutter](https://github.com/NicosNicolaou16/Pokedex_Flutter)"
