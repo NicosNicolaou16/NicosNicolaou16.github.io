@@ -21,3 +21,7 @@ contents:
   - title: "Pokedex_Flutter"
     description: "This Pokedex Flutter project show a list of Pokemons and Details Screen for each Pokemon and stats."
     image: "[Pokedex_Flutter](https://github.com/NicosNicolaou16/Pokedex_Flutter)"
+
+  - title: "SampleBlocPatternAndDriftWithSingleState"
+    description: "This is a sample project that uses Bloc Architecture Pattern Single State with Dio Network Manager and Drift Database without Drift File but with the Class."
+    image: "[SampleBlocPatternAndDriftWithSingleState](https://github.com/NicosNicolaou16/SampleBlocPatternAndDriftWithSingleState)"
