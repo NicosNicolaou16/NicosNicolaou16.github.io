@@ -4,54 +4,65 @@ icon: "/assets/img/flask.svg"
 contents:
   - title: Android TV Application (Jetpack Compose and Flutter)
     description: "[Android TV Application](https://medium.com/@nicosnicolaou/android-tv-application-jetpack-compose-and-flutter-f4decfa765c6)\n\n
+                 Nov 21, 2023 - Medium\n\n
                  This article explains the latest setup for the Android TV in Android and Flutter.\n There are two example projects in my GitHub account for Android Native and Flutter.\n\n
                  Android Native: [SampleAndroidTvApp](https://github.com/NicosNicolaou16/SampleAndroidTvApp)\n\n
                  Flutter: [SampleFlutterTVApp](https://github.com/NicosNicolaou16/SampleFlutterTVApp)"
 
   - title: Standalone Wear OS Application (Jetpack Compose and Flutter)
     description: "This article explains the latest setup for the Standalone Android Wear OS in Android and Flutter.\n\n
+                  Nov 21, 2023 - Medium\n\n
                   There are two example projects in my GitHub account for Android Native and Flutter.\n\n
                   Android Native: [SampleWearOSComposeWithList](https://github.com/NicosNicolaou16/SampleWearOSComposeWithList)\n\n
                   Flutter: [SampleWearOSWithList](https://github.com/NicosNicolaou16/SampleWearOSWithList)"
 
   - title: Foreground Service in Android
     description: "[Foreground Service in Android](https://medium.com/@nicosnicolaou/foreground-service-in-android-9ff18be69ef6)\n\n
+                  Dec 3, 2023 - Medium\n\n
                   This article explains the latest setup for the Foreground Service in Android and Flutter. There are two example projects in my GitHub account for Android Native and Flutter.\n\n
                   Android Native: [SampleForegroundService](https://github.com/NicosNicolaou16/SampleForegroundService)\n\n
                   Flutter: [SampleForegroundServiceFlutter](https://github.com/NicosNicolaou16/SampleForegroundServiceFlutter)"
 
   - title: Migration from Groovy to Kotlin DSL Gradle (Part 1)
     description: "[Migration from Groovy to Kotlin DSL Gradle (Part 1)](https://medium.com/@nicosnicolaou/migration-from-groovy-to-kotlin-dsl-gradle-part-1-c065fe19fcb4)\n\n
+                  Dec 3, 2023 - Medium\n\n
                   This article is part 1 and shows you the Gradle migration from Groovy to Kotlin DSL."
 
   - title: Migration from Groovy to Kotlin DSL Gradle (Part 2)
     description: "[Migration from Groovy to Kotlin DSL Gradle (Part 2)](https://medium.com/@nicosnicolaou/migration-from-groovy-to-kotlin-dsl-gradle-part-2-5293f5b948bd)\n\n
+                  Dec 3, 2023 - Medium\n\n
                   This article is part 1 and shows you the Gradle migration from Groovy to Kotlin DSL."
 
   - title: NDK Setup on Android/Flutter Android Project
     description: "NDK Setup on Android/Flutter Android Project)](https://medium.com/@nicosnicolaou/ndk-setup-on-android-flutter-android-project-1571d9a3f5cb)\n\n
+                 Jan 5, 2023 - Medium\n\n
                  This article explains the setup for the NDK for Android and Flutter. There are two example projects in my GitHub account for Android Native and Flutter.\n\n 
                  Android Native: [AndroidProjectAndNDK](https://github.com/NicosNicolaou16/AndroidProjectAndNDK)\n\n
                  Flutter: [AndroidProjectAndNDK](https://github.com/NicosNicolaou16/FlutterAndroidProjectAndNDK)"
 
   - title: Translation Setup in Flutter with 5 steps
     description: "This article explains the setup to add the translation in Flutter. There is an example project in my GitHub account\n\n
+                Jan 28, 2023 - Medium\n\n
                 Flutter: [TranslationsSetupFlutter](https://github.com/NicosNicolaou16/TranslationsSetupFlutter)"
 
   - title: Android Widget Setup with Jetpack Compose Glance (with a Flutter example)
     description: "This article explains the latest setup for the Widget Glance in Android and Flutter. There are two example projects in my GitHub account for Android Native and Flutter.\n\n 
+                  Feb 25, 2023 - Medium\n\n
                   Android Native: [AndroidWidgetWithCompose](https://github.com/NicosNicolaou16/AndroidWidgetWithCompose)\n\n
                   Flutter: [Android_Widget_With_Compose_With_Flutter](https://github.com/NicosNicolaou16/Android_Widget_With_Compose_With_Flutter)"
 
   - title: Preferences Data Store Setup
     description: "This article explains the latest setup for the Preferences Data Store. There is an example project in my GitHub account for Android.\n\n
+                  Mar 18, 2023 - Medium\n\n
                   Android: [Data-Store-Setup](https://github.com/NicosNicolaou16/Data-Store-Setup)"
 
   - title: Text To Speech Setup For Android
     description: "This article explains the basic setup for the Text To Speech technology. There is an example project in my GitHub account for Android.\n\n
+                  Apr 14, 2023 - Medium\n\n
                   Android: [TextToSpeechSetup](https://github.com/NicosNicolaou16/TextToSpeechSetup)"
 
   - title: Migration Gradle Dependencies to Version Catalogs — libs.versions.toms (Part 3)
     description: "This article is the third part from the series \"Migration from Groovy to Kotlin DSL Gradle\" and explain the new way to initialize the libraries and plugins in \"Android Studio\".
                   You can find an example project with some common libraries and plugins on my GitHub account.\n\n
+                  May 3, 2023 - Medium\n\n
                   Android: [Libraries-Plugins-Version-Catalogs-Example](https://github.com/NicosNicolaou16/Libraries-Plugins-Version-Catalogs-Example)"
