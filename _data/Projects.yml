@@ -14,6 +14,14 @@ contents:
     description: "This package provide you percentages custom widgets with animations such as linear, circular, circle and gradient circle percentages"
     image: "[percentages_with_animation](https://pub.dev/packages/percentages_with_animation)"
 
+  - title: "dynamic_single_text_field"
+    description: "This package is a dynamic single text field (it is like PIN/OTP code view but has not PIN/OTP functionalities) with top/bottom text label, and different customizations"
+    image: "[dynamic_single_text_field](https://github.com/NicosNicolaou16/dynamic_single_text_field)"
+
+  - title: "dynamic_single_text_field (Published on Pub.dev)"
+    description: "This package is a dynamic single text field (it is like PIN/OTP code view but has not PIN/OTP functionalities) with top/bottom text label, and different customizations"
+    image: "[dynamic_single_text_field](https://pub.dev/packages/dynamic_single_text_field)"
+
   - title: "Pokedex_Compose"
     description: "This open source project is implemented with the latest Android technologies, Jetpack Compose, and using the new Android API Shared Element Transition"
     image: "[Pokedex_Compose](https://github.com/NicosNicolaou16/Pokedex_Compose)"

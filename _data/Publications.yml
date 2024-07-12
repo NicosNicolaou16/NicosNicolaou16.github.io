@@ -35,34 +35,39 @@ contents:
 
   - title: NDK Setup on Android/Flutter Android Project
     description: "NDK Setup on Android/Flutter Android Project)](https://medium.com/@nicosnicolaou/ndk-setup-on-android-flutter-android-project-1571d9a3f5cb)\n\n
-                 Jan 5, 2023 - Medium\n\n
+                 Jan 5, 2024 - Medium\n\n
                  This article explains the setup for the NDK for Android and Flutter. There are two example projects in my GitHub account for Android Native and Flutter.\n\n 
                  Android Native: [AndroidProjectAndNDK](https://github.com/NicosNicolaou16/AndroidProjectAndNDK)\n\n
                  Flutter: [AndroidProjectAndNDK](https://github.com/NicosNicolaou16/FlutterAndroidProjectAndNDK)"
 
   - title: Translation Setup in Flutter with 5 steps
     description: "This article explains the setup to add the translation in Flutter. There is an example project in my GitHub account\n\n
-                Jan 28, 2023 - Medium\n\n
+                Jan 28, 2024 - Medium\n\n
                 Flutter: [TranslationsSetupFlutter](https://github.com/NicosNicolaou16/TranslationsSetupFlutter)"
 
   - title: Android Widget Setup with Jetpack Compose Glance (with a Flutter example)
     description: "This article explains the latest setup for the Widget Glance in Android and Flutter. There are two example projects in my GitHub account for Android Native and Flutter.\n\n 
-                  Feb 25, 2023 - Medium\n\n
+                  Feb 25, 2024 - Medium\n\n
                   Android Native: [AndroidWidgetWithCompose](https://github.com/NicosNicolaou16/AndroidWidgetWithCompose)\n\n
                   Flutter: [Android_Widget_With_Compose_With_Flutter](https://github.com/NicosNicolaou16/Android_Widget_With_Compose_With_Flutter)"
 
   - title: Preferences Data Store Setup
     description: "This article explains the latest setup for the Preferences Data Store. There is an example project in my GitHub account for Android.\n\n
-                  Mar 18, 2023 - Medium\n\n
+                  Mar 18, 2024 - Medium\n\n
                   Android: [Data-Store-Setup](https://github.com/NicosNicolaou16/Data-Store-Setup)"
 
   - title: Text To Speech Setup For Android
     description: "This article explains the basic setup for the Text To Speech technology. There is an example project in my GitHub account for Android.\n\n
-                  Apr 14, 2023 - Medium\n\n
+                  Apr 14, 2024 - Medium\n\n
                   Android: [TextToSpeechSetup](https://github.com/NicosNicolaou16/TextToSpeechSetup)"
 
   - title: Migration Gradle Dependencies to Version Catalogs — libs.versions.toms (Part 3)
     description: "This article is the third part from the series \"Migration from Groovy to Kotlin DSL Gradle\" and explain the new way to initialize the libraries and plugins in \"Android Studio\".
                   You can find an example project with some common libraries and plugins on my GitHub account.\n\n
-                  May 3, 2023 - Medium\n\n
+                  May 3, 2024 - Medium\n\n
                   Android: [Libraries-Plugins-Version-Catalogs-Example](https://github.com/NicosNicolaou16/Libraries-Plugins-Version-Catalogs-Example)"
+
+  - title: Who am I and why am I writing small setup articles?
+    description: "This article explain few words who I am and why I write setup articles.\n\n
+                  June 25, 2024 - Medium\n\n
+                  Android: [Who am I and why am I writing small setup articles?](https://medium.com/@nicosnicolaou/who-am-i-and-why-am-i-writing-small-setup-articles-45f3f36a78a1)"
