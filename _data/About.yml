@@ -2,7 +2,7 @@ subject: About Me
 listing-order: 1
 icon: "/assets/img/house.svg"
 contents:
-    - description: "My name is Nicos Nicolaou, I am from Nicosia, Cyprus and I hold a BSc on Computer Science and a MSc on Mobile Systems. I am a Senior Software Engineer, Android and Flutter Developer. I have seven years of professional experience but the past nine years I am interested for the mobile development. Before, I started working as a professional mobile developer, I published my first Android application on Google Play Store at 2016.
+    - description: "My name is Nicos Nicolaou, I am from Nicosia, Cyprus and I hold a BSc on Computer Science and a MSc on Mobile Systems. I am a Senior Software Engineer, Android and Flutter Developer. I have seven years of professional experience but the past nine years I am interested for the mobile development. Before, I started working as a professional mobile developer, I published my first Android application on Google Play Store at 2016.\n\n
 From 2020, I started working on my open sources projects on my GitHub account, trying and learning new technologies for Android and Flutter, I have more than forty public and private repositories.\n\n
 
 From the May of 2023, I started publishing my own libraries/packages for Android Native and Flutter.\n\n
