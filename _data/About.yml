@@ -2,17 +2,12 @@ subject: About Me
 listing-order: 1
 icon: "/assets/img/house.svg"
 contents:
-    - description: "I graduated with MSc degrees, Concentration of Mobile Systems at 2016 from University of Nicosia, Cyprus and the BSc degrees in Computer Science at 2014 from University of Nicosia, Cyprus.
- The thesis of my project for MSc degrees was an “Android” application which was published in summer of 2016 at “Google Play Store”. This application is a context app that allows users to find their current location when they are trouble so they can send an emergency message or share it. The thesis of my BSc degrees was the “Uno” game developed with “Java” programming language.
- 
- \nI have almost seven years experience with Android Development industry and I'm a Google Play Developer for seven years now with one app on Google Play Store (check out my app: [UrLocFinder](https://play.google.com/store/apps/details?id=com.map.nicos.mymap)). This app was my Thesis Master Project and I continue to make updates. I'm using the standard Android/Java APIs and some libraries from GitHub. During 2022 - 2023, I refactored the app to the new Modern Android, converted from Java to Kotlin, SQLite to Room Database, Hilt Dagger, MVVM, Material Design 3.
- 
- \nI’m Expert/Interest/Most used: Kotlin for Android, Java Android Programming, Java programming, Object Oriented Programming (OOP), Troubleshooting, Debug, Find Bugs and Solutions, Android Studio, Microsoft Windows, Mac, XML, AES cryptography method (Coding and Theory), Google Map API for Android, GreenDao database for Android, JSoup: Java HTML Parser(External library), JSON parser, Android Firebase, OkHttp 4, Model - View - Presenter (MVP), Model - View - ViewModel (MVVM), Live Data (Android), Kotlin Coroutines. Room Database (Android), Data Binding, Navigation, Retrofit. In last year I learned and working as flutter developers. From October, 2021, I was starting implement apps on Flutter.
- 
- \nFrom 2020, I started working on my open source projects and from May 2023, I was starting published and maintenance my libraries on my GitHub account. I have two libraries, one for Android Native and Flutter library.
-\n - [ImagePickerAndroid](https://github.com/NicosNicolaou16/ImagePickerAndroid) 
-\n\n - [percentages_with_animation](https://github.com/NicosNicolaou16/percentages_with_animation)
- \n\nFrom November 2023, I started writing articles in the Medium about Android and Flutter. 
+    - description: "My name is Nicos Nicolaou, I am from Nicosia, Cyprus and I hold a BSc on Computer Science and a MSc on Mobile Systems. I am a Senior Software Engineer, Android and Flutter Developer. I have seven years of professional experience but the past nine years I am interested for the mobile development. Before, I started working as a professional mobile developer, I published my first Android application on Google Play Store at 2016.
+From 2020, I started working on my open sources projects on my GitHub account, trying and learning new technologies for Android and Flutter, I have more than forty public and private repositories.\n\n
 
-\nPersonal Interest: Guitar, PC Hardware and PC gaming. 
+From the May of 2023, I started publishing my own libraries/packages for Android Native and Flutter.\n\n
+
+From November 2023, I stared writing on Medium about for Android and Flutter technologies.\n\n
+
+In my free time, I am writing coding, playing pc games, interested about pc building.
 "
