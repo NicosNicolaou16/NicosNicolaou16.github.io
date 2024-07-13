@@ -1,9 +1,8 @@
-subject: About
+subject: About Me
 listing-order: 1
 icon: "/assets/img/house.svg"
 contents:
-  - title: About Me
-    description: "I graduated with MSc degrees, Concentration of Mobile Systems at 2016 from University of Nicosia, Cyprus and the BSc degrees in Computer Science at 2014 from University of Nicosia, Cyprus.
+    - description: "I graduated with MSc degrees, Concentration of Mobile Systems at 2016 from University of Nicosia, Cyprus and the BSc degrees in Computer Science at 2014 from University of Nicosia, Cyprus.
  The thesis of my project for MSc degrees was an “Android” application which was published in summer of 2016 at “Google Play Store”. This application is a context app that allows users to find their current location when they are trouble so they can send an emergency message or share it. The thesis of my BSc degrees was the “Uno” game developed with “Java” programming language.
  
  \nI have almost seven years experience with Android Development industry and I'm a Google Play Developer for seven years now with one app on Google Play Store (check out my app: [UrLocFinder](https://play.google.com/store/apps/details?id=com.map.nicos.mymap)). This app was my Thesis Master Project and I continue to make updates. I'm using the standard Android/Java APIs and some libraries from GitHub. During 2022 - 2023, I refactored the app to the new Modern Android, converted from Java to Kotlin, SQLite to Room Database, Hilt Dagger, MVVM, Material Design 3.
