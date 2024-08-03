@@ -6,6 +6,10 @@ contents:
     description: "Image and Video Picker library for Android, support Base64 value(s) from Image(s) and support Layout and Jetpack Compose"
     image: "[Image Picker Android](https://github.com/NicosNicolaou16/ImagePickerAndroid)"
 
+  - title: "Percentages with Animation Compose (PercentagesWithAnimationCompose)"
+    description: "This library built to give to other developers an easy way to implement percentages with custom Compose view and animation such as linear, circular, circle and gradient circle percentages. Support me and I will appreciate if you provide me your feedback(s)."
+    image: "[Percentages with Animation Compose](https://github.com/NicosNicolaou16/PercentagesWithAnimationCompose)"
+
   - title: "percentages_with_animation"
     description: "This package provide you percentages custom widgets with animations such as linear, circular, circle and gradient circle percentages"
     image: "[percentages_with_animation](https://github.com/NicosNicolaou16/percentages_with_animation)"
