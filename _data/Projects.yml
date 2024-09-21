@@ -37,3 +37,7 @@ contents:
   - title: "SampleBlocPatternAndDriftWithSingleState"
     description: "This is a sample project that uses Bloc Architecture Pattern Single State with Dio Network Manager and Drift Database without Drift File but with the Class."
     image: "[SampleBlocPatternAndDriftWithSingleState](https://github.com/NicosNicolaou16/SampleBlocPatternAndDriftWithSingleState)"
+
+  - title: "Pokedex_Compose_Multi_Module"
+    description: "This open source project is implemented with the latest Android technologies, multi module pattern, Jetpack Compose, and using the new Android API Shared Element Transition."
+    image: "[Pokedex_Compose_Multi_Module](https://github.com/NicosNicolaou16/Pokedex_Compose_Multi_Module)"
