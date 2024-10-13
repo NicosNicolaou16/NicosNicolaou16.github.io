@@ -41,3 +41,7 @@ contents:
   - title: "Pokedex_Compose_Multi_Module"
     description: "This open source project is implemented with the latest Android technologies, multi module pattern, Jetpack Compose, and using the new Android API Shared Element Transition."
     image: "[Pokedex_Compose_Multi_Module](https://github.com/NicosNicolaou16/Pokedex_Compose_Multi_Module)"
+
+  - title: "Carousel Compose"
+    description: "The open source project is implement the new Carousel with Material 3 with Jetpack Compose and shows two example, HorizontalUncontainedCarousel and HorizontalMultiBrowseCarousel."
+    image: "[Carousel_Compose](https://github.com/NicosNicolaou16/Carousel_Compose)"
