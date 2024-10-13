@@ -45,3 +45,7 @@ contents:
   - title: "Carousel Compose"
     description: "The open source project is implement the new Carousel with Material 3 with Jetpack Compose and shows two example, HorizontalUncontainedCarousel and HorizontalMultiBrowseCarousel."
     image: "[Carousel_Compose](https://github.com/NicosNicolaou16/Carousel_Compose)"
+
+  - title: "Ink API Compose"
+    description: "This open source project is testing the new Google Ink API with an example for drawer with options to select colors and erase the drawing."
+    image: "[Ink_API_Compose](https://github.com/NicosNicolaou16/Ink_Api_Compose)"
