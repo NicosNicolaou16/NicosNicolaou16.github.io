@@ -96,3 +96,8 @@ contents:
     description: "In this article, we will explore the implementation of my first ever Android Native library that I built, the ImagePickerAndroid.\n\n
                Feb 2, 2025 - Medium\n\n
                [ImagePickerAndroid - My Android Image Picker Library 🧑‍💻](https://medium.com/@nicosnicolaou/imagepickerandroid-my-android-image-picker-library-d1ac86c60e3a)"
+
+  - title: Trusted Time API Implementation
+    description: "In this article, we will explore the implementation of the new Trusted Time API by Google.\n\n
+               Feb 23, 2025 - Medium\n\n
+               [Trusted Time API Implementation](https://medium.com/@nicosnicolaou/trusted-time-api-implementation-7f3c6c14809c)"
