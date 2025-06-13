@@ -106,3 +106,8 @@ contents:
     description: "In this article, we will explore the initial setup required to automate your Android application release process and some.\n\n
                May 11, 2025 - Medium\n\n
                [Preparing for Android App Release Automation: What You Need to Know First](https://medium.com/@nicosnicolaou/preparing-for-android-app-release-automation-what-you-need-to-know-first-e3dfd007f62f)"
+
+  - title: Implementing Live Update Notifications in Android 16
+    description: "In this article, we delve into the implementation details of Live Update Notifications introduced in Android 16.\n\n
+               June 13, 2025 - Medium\n\n
+               [Implementing Live Update Notifications in Android 16](https://medium.com/@nicosnicolaou/implementing-live-update-notifications-in-android-16-7c962ec6c373)"
