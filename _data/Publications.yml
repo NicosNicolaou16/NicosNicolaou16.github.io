@@ -111,3 +111,8 @@ contents:
     description: "In this article, we delve into the implementation details of Live Update Notifications introduced in Android 16.\n\n
                June 13, 2025 - Medium\n\n
                [Implementing Live Update Notifications in Android 16](https://medium.com/@nicosnicolaou/implementing-live-update-notifications-in-android-16-7c962ec6c373)"
+              
+  - title: Setup gradle.properties file for faster Android and Flutter Gradle build
+    description: "In this article, we’ll take a quick look at the gradle.properties file.\n\n
+               July 14, 2025 - Medium\n\n
+               [Setup gradle.properties file for faster Android and Flutter Gradle build](https://medium.com/@nicosnicolaou/setup-gradle-properties-file-for-faster-android-and-flutter-gradle-build-782b1afaa253)"
