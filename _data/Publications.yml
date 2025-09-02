@@ -113,6 +113,11 @@ contents:
                [Implementing Live Update Notifications in Android 16](https://medium.com/@nicosnicolaou/implementing-live-update-notifications-in-android-16-7c962ec6c373)"
               
   - title: Setup gradle.properties file for faster Android and Flutter Gradle build
-    description: "In this article, we’ll take a quick look at the gradle.properties file.\n\n
+    description: "In this article, weU+2019ll take a quick look at the gradle.properties file.\n\n
                July 14, 2025 - Medium\n\n
                [Setup gradle.properties file for faster Android and Flutter Gradle build](https://medium.com/@nicosnicolaou/setup-gradle-properties-file-for-faster-android-and-flutter-gradle-build-782b1afaa253)"
+
+  - title: Setting Up Relationships in Room Database
+    description: "In this article, we focus on setting up relationships in Room Database.\n\n
+               July 14, 2025 - Medium\n\n
+               [Setting Up Relationships in Room Database](https://medium.com/@nicosnicolaou/setting-up-relationships-in-room-database-a7e14bab4754)"
