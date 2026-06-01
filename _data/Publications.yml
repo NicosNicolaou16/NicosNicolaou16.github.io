@@ -131,3 +131,8 @@ contents:
     description: "In this article, we will focus on the setup and customization options of my library, Percentages With Animation Compose.\n\n
                Mar 15, 2026 - Medium\n\n
                [PercentagesWithAnimationCompose — An Animated Percentage Indicators Library for Jetpack Compose](https://medium.com/@nicosnicolaou/percentageswithanimationcompose-an-animated-percentage-indicators-library-for-jetpack-compose-f11843ee4d87)"
+
+  - title: Encrypted Preferences DataStore
+    description: "In this article, we’ll take a closer look at the official encrypted solution that Google has introduced for DataStore.\n\n
+               Jun 01, 2026 - Medium\n\n
+               [Encrypted Preferences DataStore](https://medium.com/@nicosnicolaou/encrypted-preferences-datastore-442ba4d1dabe)"
