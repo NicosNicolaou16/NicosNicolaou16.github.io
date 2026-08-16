@@ -1,8 +1,0 @@
-subject: Skills
-listing-order: 6
-icon: "/assets/img/screwdriver-wrench.svg"
-contents:
-  - title: Programming Languages and Tools
-    description: "
-      ![My Skills](https://skillicons.dev/icons?i=kotlin,flutter,dart,java,androidstudio,postman,github,bitbucket,git,sublime)
-    "
