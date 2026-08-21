@@ -140,14 +140,25 @@ section{padding:64px 0;position:relative}
 .tag{font-family:"JetBrains Mono",monospace;font-size:.72rem;color:var(--muted);border:1px solid var(--line);border-radius:6px;padding:3px 9px}
 
 /* PROJECTS */
-.proj-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:18px}
+.proj-grid{
+  display:grid;
+  grid-template-columns:repeat(2,1fr);
+  gap:18px;
+}
 @media(max-width:720px){.proj-grid{grid-template-columns:1fr}}
-.proj{display:flex;flex-direction:column;gap:10px;text-decoration:none;color:inherit}
-.proj-top{display:flex;align-items:center;justify-content:space-between}
-.proj-name{font-family:"Space Grotesk",sans-serif;font-weight:600;font-size:1.08rem}
-.proj-badge{font-family:"JetBrains Mono",monospace;font-size:.68rem;padding:2px 8px;border-radius:5px;border:1px solid var(--line);color:var(--muted)}
+.proj{display:flex;flex-direction:column;gap:10px;text-decoration:none;color:inherit;min-width:0}
+.proj-top{display:flex;align-items:center;justify-content:space-between;gap:10px}
+.proj-name{
+  font-family:"Space Grotesk",sans-serif;font-weight:600;font-size:1.08rem;
+  min-width:0;overflow-wrap:anywhere;word-break:break-word;
+}
+.proj-badge{
+  font-family:"JetBrains Mono",monospace;font-size:.68rem;padding:2px 8px;
+  border-radius:5px;border:1px solid var(--line);color:var(--muted);
+  white-space:nowrap;flex-shrink:0;
+}
 .proj-badge.pub{color:var(--amber);border-color:rgba(224,164,88,.4)}
-.proj-desc{color:var(--muted);font-size:.9rem;flex:1}
+.proj-desc{color:var(--muted);font-size:.9rem;flex:1;overflow-wrap:anywhere}
 .proj-arrow{font-family:"JetBrains Mono",monospace;color:var(--dim);font-size:.8rem;transition:color .2s,transform .2s}
 .proj:hover .proj-arrow{color:var(--accent);transform:translateX(3px)}
 
