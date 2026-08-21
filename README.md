@@ -24,13 +24,25 @@ A hand-built, static portfolio for a Senior Software Engineer working in **Andro
 
 ```
 .
-├── index.html              # the page
+├── index.html                      # the page
 ├── assets/
-│   ├── styles.css          # all styles
-│   └── main.js             # scroll-reveal animations
+│   ├── styles.css                  # all styles
+│   ├── main.js                     # scroll-reveal animations
+│   └── favicons/                   # favicon set + web manifest
+│       ├── favicon.ico
+│       ├── favicon.svg
+│       ├── favicon-16x16.png
+│       ├── favicon-32x32.png
+│       ├── apple-touch-icon.png
+│       ├── android-chrome-192x192.png
+│       ├── android-chrome-512x512.png
+│       └── site.webmanifest
+├── robots.txt                      # crawler rules
+├── sitemap.xml                     # sitemap for search engines
+├── googleXXXXXXXX.html             # Google Search Console verification
 ├── .github/workflows/
-│   └── deploy.yml          # GitHub Pages deployment
-├── .nojekyll               # tell Pages to skip Jekyll
+│   └── deploy.yml                  # GitHub Pages deployment
+├── .nojekyll                       # tell Pages to skip Jekyll
 └── README.md
 ```
 
